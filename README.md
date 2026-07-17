@@ -51,9 +51,9 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab No. | Title | Link |
-| :---: | :---: | :---: |
-| | | |
+| Lab No. |Date of submission | Title | Link |
+| :---: | :---: | :---: | :---: |
+| 01 | 26.07.2026 | Introduction to Digital Logic Gates | [Lab 01](https://github.com/Fahadhossain4/ECE-2112_2410003/blob/main/Lab/Lab_1.md) |
 
 
 </div> 
