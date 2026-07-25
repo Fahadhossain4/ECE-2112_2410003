@@ -1,5 +1,55 @@
 
-## **Lab 1: Introduction to Digital Logic**
+# **Lab 1: Introduction to Digital Logic**
+
+# Logisim Evolution Installation Process (Arch Linux)
+
+## Installation
+
+Open the terminal and install Logisim Evolution using the AUR helper (`yay`):
+
+```bash
+yay -S logisim-evolution
+```
+
+During installation:
+
+- Press **Enter** to keep the default option (`None`) for **cleanBuild**.
+- Press **Enter** to skip viewing **diffs**.
+- Wait while the package is downloaded, compiled, and built.
+- When prompted:
+
+```text
+:: Proceed with installation? [Y/n]
+```
+
+Type **Y** and press **Enter**.
+
+If prompted for the administrator password, enter your **sudo password**.
+
+After successful installation, launch the application using:
+
+```bash
+logisim-evolution
+```
+
+## Installation Output (Successful)
+
+The following messages indicate that the installation completed successfully:
+
+```text
+==> Finished making: logisim-evolution 4.1.0-1
+:: Processing package changes...
+(1/1) reinstalling logisim-evolution
+:: Running post-transaction hooks...
+```
+![alt text](image-32.png)
+![alt text](image-33.png)
+![alt text](image-34.png)
+
+## Result
+
+Logisim Evolution was successfully installed and is ready for use.
+
 ## **Experiment 1: Implementation of OR Gate using NOR Gates**
 
 **Description:**\
