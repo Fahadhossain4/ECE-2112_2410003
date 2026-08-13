@@ -54,6 +54,7 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. |Date of submission | Title | Link |
 | :---: | :---: | :---: | :---: |
 | 01 | 26.07.2026 | Introduction to Digital Logic Gates | [Lab 01](https://github.com/Fahadhossain4/ECE-2112_2410003/blob/main/Lab/Lab_1.md) |
+| 02 | 16.08.2026 | Boolean Algebra, Karnaugh Maps and logisim implementation | [Lab 02](https://github.com/Fahadhossain4/ECE-2112_2410003/blob/main/Lab/Lab_2.md) |
 
 
 </div> 
